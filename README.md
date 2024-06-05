@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VyLe-boop
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning
 <!-- - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 
